@@ -1,13 +1,19 @@
 //in JS there are 2 categories of Types
-    //Primitives 
-    //Reference Types
-
-//Primitive types
+//Primitives 
     //String
     //Number
     //Boolean
     //Undefined
     //null
+
+//Reference Types
+    //Objects
+    //Arrays
+    //Functions
+    
+
+
+    
 
 let name = 'Rahul'; //string
 let age = 10; //number
